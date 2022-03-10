@@ -1,0 +1,119 @@
+Materi : 
+1. Java
+2. Var, Let, Const
+3. Value dan references
+
+1. Java
+   Javascript adalah bahasa pemrograman yang high level, scripting, untyped, dan interpreted. java adalah bahasa pemrograman tingkat tinggi, java scrip juga tidak berpengaruh dengan tipe data, dan mudah untuk di uji. 
+
+2. Var, Let, Const
+   materi yang akan dipelajari :
+   A. Declaration 
+      adalah proses pembuatan variabel untuk menyimpan data.
+      terdapat 3 cara pendeklarasian variabel : 
+      - var :kegunaaannya seperti let dan kita jarang menggunakannya
+      - Let :digunakan saat kita emmbutuhkan nilai yang dapat diubah
+      - Const :digunakan saat kita membutuhkan nilai yang tidak bisa di reassign
+   B. Scoping
+      adalah menentukan dimana variabel, fungsi, dan objek diatur dan dapat diakses dalam kode kita.
+     ada 3 macam scoping :
+      - global
+        variabel dapat diakses kapanpun kita ngoding
+      - function
+        mendeklarasikan variaabel didalam function
+      - block
+        berkaitan dengan kurung kurawal. 
+   C. Hoisting
+      membuat beberapa jenis bariavel atau fungsi dapat diakses dalam kode sebelum dideklarasi. deklarasi var dan function adlaah hoisted.
+
+3. Vallues dan referens 
+   javascrips memiliki 2 kategori data :
+   - primitives 
+     dalam pemrograman unit pemprosesannya terkecil dan elemen paling sederhana yang tersedia dalam bahasa pemrograman. 
+     tipe data primitives :
+     - string
+     - boolean
+     - number
+     - biglnt
+     - undefined
+     - null
+     - symbol
+   - objects
+     adalah unit yang menyimpan properti dan fungsi.
+     tipe data object : 
+     - object
+     - array
+     - function
+     - date
+     - set
+     - map
+     - weak set
+     - weak map
+
+4. Destructuring
+   Destructuring adalah ekpresi dari javascrip yang memungkinkan untuk menyalun nilai dari array atau properti dari objek kedalam variabel yang berbeda. 
+   - Array : menyalin elemen-elemen dalam array dalam variabel baru.
+   - objeck : kita bisa menyalin nilai properti objek kedalam suatu variabel
+ a. Spread 
+    spread syntax dapat digunakan ketika semua elemen dari objek atau array perlu dimasukkan kedalam semacam daftar.
+
+5. Methode
+   methode adalah sebuah fungsi yang terkait dengan object, membuat programnya sederhana sesuai kegunaannya. 
+   dimethode terdapat :
+   - concat
+     menggabungkan 2 array dan mengembalikan salinan array yang digabungkan
+   - map
+     membuat array baru dengan hasil dan memanggil fungsi untuk setiap elemen aray
+   - foreach
+     memanggil fungsi untuk setuap elelem array (melakukan looping dan didalam looping ada operasi)
+   - slice
+     memilih bagian dari array dan mengembalikan array baru
+   - filter
+     membuat array baru dengan setiap elemen dalam array yang sesuai hasil operasi
+   - reduce
+     melakukan operasi pada setuap elemen erray menjadi nilai tunggal
+
+6. Control Flow
+   dicontrol flow ini ada dua macam yaitu, control flow dan normal flow. 
+  normal flow adalah pengeksekusian statement dari atas ke bawah atau kiri ke kanan secara berurutan. 
+  control flow adlaah mengatur alur eksekusi pada statement sesuai kemanuan kita.
+  ketika kita akan menggunakan control flow kita menggunakan :
+   - pengulanan (loop/iterasi) 
+      for, while, do while
+   - pengkondissian (percabangan)
+      if..else, switch, block, try..catch, break, continue, throw
+  penjelasan tenang pengkondisian :
+   a. try..catch
+     try bertugas mengeksekusi statement didalemnya dan cath utnuk menangkap error didalam try
+  b. trow 
+     melemparkann error sesuai yang diinginkan dan error akan ditangkap oleh catch (terjadi didalam block try)
+ 
+7. function
+   function adlaah sebuah objek karna, memilikki properti dan method.  fungsinya adlaah melakukan serangkaian komputasi yang dapat dilakukan berulang kali. 
+   - function expression 
+     dapat membuat fungsi menjadi sebuah variabel
+   - arrow function
+     mirip dengan expression tapi penulisan fuction tidak ada tapi diganti =>
+
+8. Class
+   sub materi class : 
+   - class
+     adalah protype dari suatu objek yang akan dibyat
+   - constructor
+     methode dalam class yang terpanggil pertama kali ketika membuat objek. methode adalah fungssi yang berada didalam class
+   - atribut
+     kumpulan variabel yang membutuk objek ysang dimiliki oleh class
+   - extend
+     digunakan untuk membuat class annak dari kelas induk. kelas anak mewarisi semua atribut dan metode dari kelas induk.
+
+
+
+
+   
+
+     
+
+
+
+
+    
