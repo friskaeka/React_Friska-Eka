@@ -1,7 +1,0 @@
-materi yang dipelajari :
-- pengenalan
-- react fundamental
-- testing
-
-1. React
-  

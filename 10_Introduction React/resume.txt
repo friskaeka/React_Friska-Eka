@@ -1,0 +1,39 @@
+materi yang dipelajari :
+- pengenalan
+- react fundamental
+- testing
+
+1. React 
+   react adalah javacrip library bukan framework.
+   kenapa menggunakan react : 
+    - deklaratif : pendekatan yang berfokus pada whownya
+    - berbasis komponen : ketika kita membuat sebuah aplikasi. aplikasi bisa kita buat menjadi lebih kecil. 
+    - sudah teruji
+    - tulis sekali bisa dimana-mana
+    - teknologi yang populer
+    - lowongan pekerjaan yang banyak
+   
+
+1. Virtual Dom
+   virtual dom adalah representasi dari UI berbentuk javascript object yang disimpan pada memori
+  virtual dom penting karna : 
+   - kalo dom manipulasi adlah kunci agar web atraktif
+   masalah dom : 
+   - dom manual dapat membuat code berantakan
+   - sulit mengingat dom sebelumnya
+   - jauh lebih lambat dari operasi javascript
+  
+2. Set Up Development
+   a. tools yang diperlukan
+      - browser
+      - text editor
+      - cmd
+   b. komen yang sering digunakan 
+      - ls :melist file didirektori kita
+      - mkdir : membuat folder dari direktori yang kita akses
+      - cd : mengubah direktori
+      - mv : memindahkan folder atau menrename folder
+      - rm : menghapus folder
+   c. membuat aplikasi react menggunakan CRA
+      - membuka aplikasi react.js dengan 'npx create-react-app [nama_project]'
+ 
