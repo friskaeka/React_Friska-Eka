@@ -1,0 +1,13 @@
+Global State
+
+- 
+
+- Redux Thunk
+  thunk middleware untuk redux yang memungkinkan kita untuk membuat action creator yang mengembalikan function bukan action. kita memerlukan redux thunk untuk menghandle side effect logic seperti logic synchronous kompleks yang perlu mengakses store dan juga logic async seperti request data. 
+
+- data fatching
+  data fatching adalah kita punya aplikasi dan kita butuh server, kita butuh server.
+  Cara untuk fetching data di react : 
+  a. fetch api
+  b. axios
+  c. react queri library
